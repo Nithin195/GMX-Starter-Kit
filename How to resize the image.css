@@ -1,0 +1,30 @@
+<style>
+    .larger-image {
+        width: 500px;
+    }
+.red-text{
+    color: rebeccapurple;
+}
+
+h2{
+  font-family: monospace,sans-serif;  
+}
+
+P{
+font-size: 16px;
+font-family: monospace;
+}
+</style>
+
+<h2 class="red-text">Nithin_ADERSH</h2>
+<main>
+
+    <p class="red-text"<My name is NITHIN ADERSH <a href="#">ENGINEER</a></p>
+        <a href="#"<img class="larger-image" src="https://www.freepik.com/free-vector/engineers-day-hand-drawn-flat-illustration_29698994.htm#query=engineer&position=3&from_view=keyword" alt="I'm an electronics engineer(:"></a>
+<div>
+    <p>There are 2 streams:</p>
+    <ul>
+        <li>electronics</li>
+        <li>communication</li>
+    </ul>
+</div>
