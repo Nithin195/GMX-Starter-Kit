@@ -1,0 +1,33 @@
+<style>
+    .larger-image {
+        width: 500px;
+    }
+.red-text{
+    color: rebeccapurple;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: cadetblue;
+    border-width: 5px;
+    border-style: solid; 
+}
+
+P{
+font-size: 16px;
+font-family: monospace;
+}
+</style>
+
+<h2 class="red-text">catlovers</h2>
+<main>
+
+    <p class="red-text"<My name is NITHIN ADERSH <a href="#">cat</a></p>
+        <a href="#"<img class="larger-image" src="https://bit.ly/fcc-relaxing-cat" alt="I'm an electronics engineer(:"></a>
+<div>
+    <p>cat loves 2 things:</p>
+    <ul>
+        <li>cat love milk</li>
+        <li>also loves fish</li>
+    </ul>
+</div>
