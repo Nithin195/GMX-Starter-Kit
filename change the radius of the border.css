@@ -1,0 +1,35 @@
+<style>
+.red-text {
+    color: aquamarine;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+P{
+    font-size: 10px;
+    font-family: monospace;
+}
+.thick-green-border {
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.smaller-image {
+    width: 100px;
+}
+</style>
+<h2 class="red-text">catphoto</h2>
+<main>
+<p class="red-text"<click here to view more <a href="#">cat</a></p>
+<a href="#"<img class="larger-image" src="https://bit.ly/fcc-relaxing-cat" alt="I'm a cat(:"></a>
+<div>
+<p>cat loves 2 things:</p>
+<ul>
+<li>cat love milk</li>
+<li>also loves fish</li>
+</ul>
+</div>
+
+
+
