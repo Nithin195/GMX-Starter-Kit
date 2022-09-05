@@ -1,0 +1,11 @@
+<style>
+    body{
+        background-color: black;
+        color: pink;
+        font-family: monospace;
+    }
+    .pink-text{
+        color: pink;
+    }
+</style>
+<h1 class=".pink-text">Hellow Nithin</h1>
